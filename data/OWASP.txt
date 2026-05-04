@@ -1,0 +1,39 @@
+[OWASP A01 - Broken Access Control]
+Description: Users can access unauthorized resources.
+Prevention: Implement proper authorization checks.
+
+[OWASP A02 - Security Misconfiguration]
+Description: Occurs when a system, application, or cloud service is set up incorrectly, creating vulnerabilities. Includes missing hardening, default accounts, and unnecessary features.
+Prevention: Implement proper configuration management and security hardening.
+
+[OWASP A03 - Software Supply Chain Failures]
+Description: Focuses on breakdowns or compromises in the process of building, distributing, or updating software, often caused by vulnerabilities in third-party code.
+Prevention: Implement proper supply chain security measures.
+
+[OWASP A04 - Cryptographic Failures]
+Description: Failures related to the lack of cryptography, insufficiently strong cryptography, leaking of cryptographic keys, and related errors.
+Prevention: Implement proper cryptographic measures.
+
+[OWASP A05 - Injection]
+Description: An application flaw that allows untrusted user input to be sent to an interpreter and causes it to execute parts of that input as commands.
+Prevention: Implement proper input validation and output encoding.
+
+[OWASP A06 - Insecure Design]
+Description: Focuses on risks related to design flaws, emphasizing the need for secure design patterns, reference architecture, and threat modeling.
+Prevention: Implement proper threat modeling and secure design patterns.
+
+[OWASP A07 - Authentication Failures]
+Description: Failures to confirm the user's identity, authentication, and session management.
+Prevention: Implement proper authentication and session management.
+
+[OWASP A08 - Software or Data Integrity Failures]
+Description: Failure to maintain trust boundaries and verify the integrity of software, code, and data artifacts.
+Prevention: Implement proper integrity checks.
+
+[OWASP A09 - Security Logging and Alerting Failures]
+Description: Issues with properly handling output encoding to log files, inserting sensitive data into log files, and insufficient logging or alerting.
+Prevention: Implement proper logging and alerting.
+
+[OWASP A10 - Mishandling of Exceptional Conditions]
+Description: Focuses on improper error handling, logical errors, failing open, and related scenarios stemming from abnormal conditions.
+Prevention: Implement proper error handling.

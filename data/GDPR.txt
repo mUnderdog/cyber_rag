@@ -1,0 +1,128 @@
+[GDPR - Data Protection Principles]
+Lawfulness, Fairness and Transparency: Data must be processed lawfully, fairly, and transparently.
+Purpose Limitation: Data should be collected for specified, explicit, and legitimate purposes and not further processed in a manner incompatible with those purposes.
+Data Minimisation: Only data that is adequate, relevant, and limited to what is necessary for the purposes should be collected.
+Accuracy: Personal data must be accurate and, where necessary, kept up to date.
+Storage Limitation: Data should be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes.
+Integrity and Confidentiality: Data must be processed in a manner that ensures appropriate security, including protection against unauthorised or unlawful processing and against accidental loss, destruction, or damage.
+Accountability: The data controller is responsible for, and must be able to demonstrate compliance with, the other principles.
+
+[GDPR - User Rights]
+Right to access: Users can request their personal data.
+Right to erasure: Users can request deletion of their data.
+Right to rectification: Users can request correction of inaccurate data.
+Right to restrict processing: Users can request restriction of data processing.
+Right to data portability: Users can request their data in a portable format.
+Right to object: Users can object to data processing.
+Rights related to automated decision making and profiling: Users have rights related to automated decision making and profiling.
+
+[GDPR - Key Definitions]
+Personal data: Any information relating to an identified or identifiable natural person.
+Data subject: An identified or identifiable natural person.
+Data controller: The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+Data processor: A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
+Processing: Any operation performed on personal data, such as collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+Consent: Any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
+
+[GDPR - Data Breach Notification]
+Data breach: A breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed.
+Data protection officer: A person appointed to monitor compliance with data protection laws.
+
+[GDPR - Penalties]
+Fines: Up to €20 million or 4% of annual global turnover, whichever is higher.
+Other penalties: Suspension of data processing, warnings, reprimands, orders to erase data, etc.
+
+[GDPR - Key Articles]
+Article 5: Principles relating to processing of personal data
+Article 6: Lawfulness of processing
+Article 7: Conditions for consent
+Article 8: Child's consent
+Article 9: Processing of special categories of personal data
+Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject
+Article 13: Information to be provided where personal data are collected from the data subject
+Article 14: Information to be provided where personal data have not been obtained from the data subject
+Article 15: Right of access by the data subject
+Article 16: Right to rectification
+Article 17: Right to erasure ('right to be forgotten')
+Article 18: Right to restriction of processing
+Article 19: Obligation to notify third parties of rectification or erasure of personal data or restriction of processing
+Article 20: Right to data portability
+Article 21: Right to object
+Article 22: Automated individual decision-making, including profiling
+Article 23: Restrictions
+Article 24: Responsibility of the controller
+Article 25: Data protection by design and by default
+Article 26: Joint controllers
+Article 27: Representatives of controllers or processors not established in the Union
+Article 28: Processor
+Article 29: Processing under the authority of the controller or processor
+Article 30: Records of processing activities
+Article 31: Cooperation with the supervisory authority
+Article 32: Security of processing
+Article 33: Notification of a personal data breach to the supervisory authority
+Article 34: Communication of a personal data breach to the data subject
+Article 35: Data protection impact assessment
+Article 36: Prior consultation
+Article 37: Designation of the data protection officer
+Article 38: Position of the data protection officer
+Article 39: Tasks of the data protection officer
+Article 40: Codes of conduct
+Article 41: Certification
+Article 42: Certification mechanism
+Article 43: Certification bodies
+Article 44: Transfer of personal data to third countries or international organisations
+Article 45: Transfers on the basis of an adequacy decision
+Article 46: Transfers subject to appropriate safeguards
+Article 47: Binding corporate rules
+Article 48: Transfers not authorised by Union law
+Article 49: Derogations for specific situations
+Article 50: International cooperation
+Article 51: Independent supervisory authority
+Article 52: Independence
+Article 53: General conditions for members of the supervisory authority
+Article 54: Rules for the members of the supervisory authority
+Article 55: Competence
+Article 56: Competence of the supervisory authority in the lead supervisory authority
+Article 57: Tasks
+Article 58: Powers
+Article 59: Activity report
+Article 60: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+Article 61: Mutual assistance
+Article 62: Joint operations
+Article 63: Consistency mechanism
+Article 64: Opinion of the Board
+Article 65: Dispute resolution
+Article 66: Urgent procedure
+Article 67: Confidentiality
+Article 68: Transparency of the Board
+Article 69: Independence of the Board
+Article 70: Tasks of the Board
+Article 71: Composition
+Article 72: Sessions
+Article 73: Chair
+Article 74: Secretariat
+Article 75: Independence
+Article 76: Legal personality
+Article 77: Tasks of the secretariat
+Article 78: Confidentiality
+Article 79: Voting
+Article 80: Decisions
+Article 81: Consultation
+Article 82: Legal proceedings
+Article 83: General conditions for imposing administrative fines
+Article 84: Penalties
+Article 85: Processing in the context of employment
+Article 86: Processing which makes a name or identification data public
+Article 87: Processing of national identification numbers
+Article 88: Processing in the context of health data
+Article 89: Safeguards and conditions for processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
+Article 90: Obligations of controllers processing data for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
+Article 91: Derogations from Article 89(1)
+Article 92: Delegated acts
+Article 93: Implementing acts
+Article 94: Repeal of Directive 95/46/EC
+Article 95: Relationship with Directive 2002/58/EC
+Article 96: Relationship with previously concluded international agreements
+Article 97: Reports from the Commission
+Article 98: Review of the protection of natural persons with regard to processing by Union institutions, bodies, offices and agencies
+Article 99: Entry into force and application

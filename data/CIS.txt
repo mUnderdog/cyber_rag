@@ -1,0 +1,60 @@
+[CIS Control 1 - Inventory and Control of Enterprise Assets]
+Maintain an accurate inventory of all enterprise assets.
+
+[CIS Control 2 - Inventory and Control of Software Assets]
+Track and manage all software installed on systems.
+
+[CIS Control 3 - Data Protection]
+Implement measures to protect sensitive data.
+
+[CIS Control 4 - Secure Configuration of Enterprise Assets and Software]
+Configure systems and software securely.
+
+[CIS Control 5 - Account Management]
+Manage user accounts and access privileges.
+
+[CIS Control 6 - Access Control Management]
+Control access to systems and data.
+
+[CIS Control 7 - Continuous Vulnerability Management]
+Continuously identify and address vulnerabilities.
+
+[CIS Control 8 - Audit Log Management]
+Collect, review, and retain audit logs.
+
+[CIS Control 9 - Email and Web Browser Protections]
+Protect against email and web-based threats.
+
+[CIS Control 10 - Malware Defenses]
+Implement defenses against malware.
+
+[CIS Control 11 - Data Recovery]
+Ensure data can be recovered after incidents.
+
+[CIS Control 12 - Network Infrastructure Management]
+Manage network infrastructure securely.
+
+[CIS Control 13 - Network Monitoring and Defense]
+Monitor and defend networks.
+
+[CIS Control 14 - Security Awareness and Skills Training]
+Train users on security best practices.
+
+[CIS Control 15 - Service Provider Management]
+Manage third-party service providers securely.
+
+[CIS Control 16 - Application Software Security]
+Develop and maintain secure applications.
+
+[CIS Control 17 - Incident Response Management]
+Manage security incidents effectively.
+
+[CIS Control 18 - Penetration Testing]
+Conduct regular penetration testing.
+
+[CIS Control 19 - Threat Intelligence]
+Use threat intelligence to improve security.
+
+[CIS Control 20 - Vulnerability Assessment]
+Regularly assess system vulnerabilities.
+
