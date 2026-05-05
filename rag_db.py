@@ -11,7 +11,7 @@ collection = None
 
 def load_data():
     docs = []
-    for file in ["data/gdpr.txt", "data/owasp.txt", "data/cis.txt"]:
+    for file in ["data/GDPR.txt", "data/OWASP.txt", "data/CIS.txt"]:
         with open(file, "r") as f:
             content = f.read()
             sections = content.split("\n\n")
