@@ -1,9 +1,11 @@
-import chromadb
-from sentence_transformers import SentenceTransformer
 import os
 
 os.environ["TRANSFORMERS_NO_TORCHVISION"] = "1"
 os.environ["ANONYMIZED_TELEMETRY"] = "False"
+
+import chromadb
+from chromadb.config import Settings
+from sentence_transformers import SentenceTransformer
 
 model = None
 collection = None
@@ -27,7 +29,7 @@ def init_db():
     if model is None:
         model = SentenceTransformer('all-MiniLM-L6-v2')
 
-        client = chromadb.Client()
+        client = chromadb.Client(settings=Settings(anonymized_telemetry=False))
         collection = client.get_or_create_collection(name="security_policies")
 
         docs = load_data()
