@@ -3,7 +3,9 @@ from rag_db import retrieve
 import time
 import mlflow
 import os
+from dotenv import load_dotenv
 
+load_dotenv()
 
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
@@ -75,5 +77,4 @@ def get_rag_response(user_query: str):
         mlflow.log_metric("context_len", len(context_text))
 
         return result
-
-print(get_rag_response("What is broken access control?"))
+
